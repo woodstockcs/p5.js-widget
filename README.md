@@ -1,3 +1,6 @@
+copied js src from https://toolness.github.io/p5.js-widget/p5-widget.js
+
+
 [![Build Status](https://travis-ci.org/toolness/p5.js-widget.svg?branch=master)](https://travis-ci.org/toolness/p5.js-widget)
 
 This is a widget to make it easier to embed editable
